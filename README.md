@@ -2,7 +2,7 @@
 Este repositório foi desenvolvido no contexto da disciplina de Estatística e Planejamento de Experimentos, com foco na aplicação das distribuições de probabilidade à Engenharia de Materiais.  O material apresenta conceitos fundamentais das distribuições Binomial, Normal e de Poisson, integrando teoria estatística com aplicações práticas.
 
 
-1. Introdução
+# 1. Introdução
 
 A análise de fenômenos na engenharia civil, especialmente na área de materiais, está intrinsecamente associada à variabilidade dos resultados experimentais. Propriedades como resistência mecânica, módulo de elasticidade, fissuração e durabilidade não são determinísticas, apresentando dispersões decorrentes de fatores como heterogeneidade dos materiais, variabilidade no processo de produção e incertezas inerentes aos ensaios experimentais.
 Nesse contexto, a teoria das probabilidades e a estatística desempenham papel fundamental na modelagem e interpretação desses fenômenos, permitindo descrever o comportamento de variáveis aleatórias por meio de distribuições de probabilidade. Uma distribuição de probabilidade pode ser entendida como uma função que associa a cada valor possível de uma variável aleatória a sua respectiva probabilidade de ocorrência, representando, portanto, o comportamento estatístico de um fenômeno (MONTGOMERY; RUNGER, 2014).
